@@ -174,7 +174,8 @@ rm -fr /Volumes/RamDisk/compile/*
 #_ libudfread git
 tput bold ; echo ; echo '📍 ' libudfread git ; tput sgr0 ; sleep 2
 cd ${CMPL}
-git clone https://github.com/vlc-mirror/libudfread.git
+#git clone https://github.com/vlc-mirror/libudfread.git
+git clone https://code.videolan.org/videolan/libudfread.git
 cd libud*/
 ./bootstrap
 ./configure --prefix=${TARGET} --disable-shared --enable-static
