@@ -21,7 +21,7 @@
 
 ##### =-> Download & Build :
 ```
-cd ~/Desktop && git clone [https://github.com/albinoz/ffmpeg-static-OSX](https://github.com/usoppu/ffmpeg-static-OSX).git && \
+cd ~/Desktop && git clone https://github.com/usoppu/ffmpeg-static-OSX.git && \
 chmod 755 ~/Desktop/ffmpeg-static-OSX/ffmpeg-static-OSX.command  && \
 ~/Desktop/ffmpeg-static-OSX/ffmpeg-static-OSX.command
 ```
@@ -33,5 +33,5 @@ chmod 755 ~/Desktop/ffmpeg-static-OSX/ffmpeg-static-OSX.command  && \
 
 ##### x-> On Error Build :
 `Please Report with log to`
-[https://github.com/albinoz/ffmpeg-static-OSX](https://github.com/usoppu/ffmpeg-static-OSX)/issues
+https://github.com/usoppu/ffmpeg-static-OSX/issues
 
